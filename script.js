@@ -10,11 +10,11 @@ output.innerHTML = "5.73";
 input.addEventListener("click", () => {
     if (count === 1) {
         count++;
-        output.innerHTML = one;
+        setTimeout(() => {output.innerHTML = one;}, 1000)
     } else if (count === 2) {
         count++;
-        output.innerHTML = two
+        setTimeout(() => {output.innerHTML = two;}, 1000)
     } else if (count === 3) {
-        output.innerHTML = three;
+        setTimeout(() => {output.innerHTML = three;}, 1000)
     }
-})
+}, 2000)

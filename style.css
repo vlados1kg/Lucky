@@ -56,6 +56,10 @@
     margin-bottom: 20px;
 }
 
+.button:hover {
+    opacity: 0.6;
+}
+
 .button-inside {
     width: 180px;
     height: 180px;
