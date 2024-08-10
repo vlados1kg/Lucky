@@ -1,7 +1,7 @@
 let input = document.querySelector(".button");
 let output = document.querySelector(".main-title");
 let count = 1;
-let one = "1.54";
+let one = "2.111";
 let two = "2.76";
 let three = "15.02";
 
