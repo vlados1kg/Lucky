@@ -2,8 +2,8 @@ let input = document.querySelector(".button");
 let output = document.querySelector(".main-title");
 let buttonText = document.querySelector(".button-text");
 let count = 1;
-let one = "1.51";
-let two = "3.28";
+let one = "14.68";
+let two = "3.37";
 let three = "3.26";
 
 output.innerHTML = "5.73";
